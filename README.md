@@ -1,2 +1,2 @@
 # noticias-cidade-frontend
-praticas frontend
+praticas fronten
